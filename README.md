@@ -1,6 +1,6 @@
 👋 Hi, I’m Mohamed Youssef
 👀 I’m interested in Computer Science and Engineering
-🌱 I’m currently learning Frontend Web Development Fundamentals
+🌱 I’m currently learning Frontend Web Development
 💞️ I’m looking to collaborate in the finance and business domains
 📫 How to reach me: abgdya@gmail.com
 😄 Pronouns: He/Him
